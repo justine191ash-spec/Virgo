@@ -1,0 +1,7 @@
+{
+  "name": "Biometrics Second Step",
+  "description": "A streamlined employee attendance logger for HR backup, featuring integrated AI image generation and editing tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
